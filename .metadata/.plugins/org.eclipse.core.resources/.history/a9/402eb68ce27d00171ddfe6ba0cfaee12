@@ -1,0 +1,5 @@
+package com.andrewsouthard.service.demo;
+
+public class WelcomeService {
+
+}
